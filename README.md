@@ -52,6 +52,7 @@ policy-as-code-analyzer/
 ├─ reports/
 │  └─ compliance_report.csv   # Generated output
 └─ README.md
+```
 
 ---
 
@@ -136,13 +137,13 @@ Planned improvements include:
 
 ---
 
-Author
+## Author
 
 TiOnkaCyberSec
 Cybersecurity | IAM | Cloud Security | Compliance Automation | ISC2 CC | Google Cybersecurity Certificate
 
 ---
 
-Disclaimer 
+## Disclaimer 
 
 This project is for educational and demonstration purposes and does not replace formal security assessments or audits.
